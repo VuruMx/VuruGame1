@@ -1,0 +1,30 @@
+-- VERSION 1.2.1-----
+
+----NEW FEATURES-------
+-- Improved user suggestion to be random
+
+----BUG FIXES----------
+-- Fixed email activation issues
+-- Fixed forgot password issue
+-- Fixed Image size and rendering bug
+-- Fixed Root email issue, you can set from address and from name
+-- Fixed site keywords and description not added in the head section
+-- Fixed welcome mail sending before activation
+-- Fixed default language selection not working from admin
+-- Fixed message sending picture multiple times
+-- Fixed sidebar disappearing during scrolling
+----Files Touched
+
+---------------------------------
+
+-----NEW FEATURES------
+- Clicking photo in the timeline open post modal
+- Added account activation by email
+
+----BUG FIXES------
+-- Fixed messages not sending
+- Fixed photo resize causing blur images in low photos
+- Fixed issue with saving users from admin panel
+- Fixed deduction in points when user delete posts,comments,unlike or unfollow
+-- Fixed background image not working
+-- Fixed issue with sidebar scroll
